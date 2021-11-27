@@ -15,6 +15,6 @@ Three layers of GeoJSON data are provided, so a user may toggle between any comb
 -  Earthquakes at least a magnitude of 4.5 in the last 7 days.
 -  Mapping of the major world Tectonic Plates.
 
-Each point of data (Earthquake) layered onto the map also has a binded pop-up including the following data:
+Each point of data (Earthquake) layered onto the map also has a binded pop-up to display the following data:
 -  Magnitude recorded
 -  Location of the epicenter
